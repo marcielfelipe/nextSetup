@@ -11,7 +11,7 @@ const Home: React.FC = () =>{
         <title>Home</title>
       </Head>
       <img src={logo} alt="" />
-      <h1>ReactJS Structure</h1>
+      <h1>ReactJS</h1>
       <p>A ReactJS + Next.js structure.</p>
     </Container>
   )
